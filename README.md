@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>Retrieval-based-Voice-Conversion-WebUI</h1>
+## Voice Conversion WebUI : @Elviana
 Kerangka kerja pengubah suara yang sederhana dan mudah digunakan berdasarkan 'VITS'<br><br>
 
-[![madewithlove](https://img.shields.io/badge/By_:_Elviana-%E2%9D%A4-red?style=for-the-badge&labelColor=orange
+[![madewithlove](https://img.shields.io/badge/Made_With-%E2%9D%A4-red?style=for-the-badge&labelColor=orange
 )](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 <img src="https://counter.seku.su/cmoe?name=rvc&theme=r34" /><br>
